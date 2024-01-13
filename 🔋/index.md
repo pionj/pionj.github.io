@@ -10,7 +10,7 @@ tags:
 series:
 - 
 draft: true
-private: true
+private: false
 ---
 
 ## Entries
