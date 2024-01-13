@@ -14,9 +14,9 @@ module.exports = {
           "**/.git/**",
           "**/.github/**",
           "**/.vscode/**",
-          `${__dirname}/../readme/md`
+          `${__dirname}/../readme.md`
         ],
-        parseWikiLinks: true
+        // parseWikiLinks: true
       },
     },
   ],
