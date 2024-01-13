@@ -9,3 +9,4 @@ private: false
 
 # test2
 
+draft 필드도 인식하는 것 같다.
