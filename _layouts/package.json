@@ -9,15 +9,12 @@
     "react-dom": "*"
   },
   "dependencies": {
-    "gatsby": "^2.13.13",
+    "gatsby": "^4.25.7",
     "gatsby-theme-garden": "^0.1.66",
     "react-stacked-pages-hook": "^0.4.8",
     "gatsby-remark-double-brackets-link": "^0.1.11",
     "gatsby-remark-double-parenthesis-link": "0.1.5",
     "gatsby-transformer-markdown-references": "^0.1.8"
-  },
-  "devDependencies": {
-    "gatsby": "4.25.7"
   },
   "keywords": [
     "foam"
