@@ -19,5 +19,6 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  // "vscodeMarkdownNotes.workspaceFilenameConvention": "relativePaths"
 }
