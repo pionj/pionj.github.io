@@ -4,12 +4,12 @@
   "description": "",
   "version": "1.0.0",
   "peerDependencies": {
-    "gatsby": "^2.13.13",
+    "gatsby": "*",
     "react": "*",
     "react-dom": "*"
   },
   "dependencies": {
-    "gatsby": "^3.9.0",
+    "gatsby": "^2.13.13",
     "gatsby-theme-garden": "^0.1.66",
     "react-stacked-pages-hook": "^0.4.8",
     "gatsby-remark-double-brackets-link": "^0.1.11",
