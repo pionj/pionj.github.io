@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/pionj.github.io`,
+  pathPrefix: `/`,
   siteMetadata: {
     title: `Foam`,
   },
