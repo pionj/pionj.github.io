@@ -9,5 +9,5 @@ private: false
 
 # test
 
-draft 필드도 인식하는 것 같다.
+draft 필드도 인식하는 것 같다.  
 타이틀이 다르면 이동이 안되는 건가
