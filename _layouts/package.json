@@ -16,7 +16,8 @@
     "gatsby-remark-double-parenthesis-link": "0.1.5",
     "gatsby-transformer-markdown-references": "^0.1.8",
     "gatsby-remark-images": "^7.0.0-next",
-    "gatsby-plugin-sharp": "^5.0.0-next"
+    "gatsby-plugin-sharp": "^5.0.0-next",
+    "gatsby-plugin-mdx": "^5.0.0-next"
   },
   "devDependencies": {
     "gatsby": ">=5.0.0-next"
