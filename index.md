@@ -1,15 +1,9 @@
 ---
-title: "길라잡이"
+title: 길라잡이
 description: "index.md | (2024 January 13 Saturday)"
 date: 2024-01-13T19:14:11+09:00
 lastmod: 2024-01-13T19:14:12+09:00
-categories: 
-- 
-tags: 
-- 
-series:
-- 
-draft: true
+draft: false
 private: false
 ---
 
