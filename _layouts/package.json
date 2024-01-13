@@ -7,7 +7,7 @@
     "gatsby": ">=4.25.7"
   },
   "peerDependencies": {
-    "gatsby": ">=4.25.7",
+    "gatsby": "*",
     "react": "*",
     "react-dom": "*"
   },
