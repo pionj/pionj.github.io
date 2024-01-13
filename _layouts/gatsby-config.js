@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/foam-gatsby-template`,
+  pathPrefix: `/pionj.github.io`,
   siteMetadata: {
     title: `Foam`,
   },
