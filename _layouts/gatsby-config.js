@@ -14,7 +14,8 @@ module.exports = {
           "**/.git/**",
           "**/.github/**",
           "**/.vscode/**",
-          `${__dirname}/../readme.md`
+          `${__dirname}/../readme.md`,
+          `${__dirname}/../foam-templates/**`
         ],
         // parseWikiLinks: true
       },
