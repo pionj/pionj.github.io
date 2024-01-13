@@ -18,7 +18,5 @@
     "**/node_modules": true
   },
   "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync",
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.workspaceFilenameConvention": "relativePaths"
+  "git.postCommitCommand": "sync"
 }
