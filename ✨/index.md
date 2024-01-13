@@ -3,8 +3,8 @@ title: "index"
 description: "index.md | (2024 January 13 Saturday)"
 date: 2024-01-13T15:41:01+09:00
 lastmod: 2024-01-13T15:41:02+09:00
-draft: true
-private: true
+draft: false
+private: false
 ---
 
 ## Instant Notes
@@ -27,6 +27,9 @@ Inbox 원칙, 받은 편지함을 비운다 이런것도 좋긴한데
 번뜩임! 에 더 직관적으로 와닿아서 ✨ 이걸로 결정.
 
 🧩 piece, pion
+
+
+## Lists
 
 [[test1]]
 [[test2]]
