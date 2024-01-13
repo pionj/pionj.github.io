@@ -9,6 +9,7 @@
     "react-dom": "*"
   },
   "dependencies": {
+    "gatsby": "^3.9.0",
     "gatsby-theme-garden": "^0.1.66",
     "react-stacked-pages-hook": "^0.4.8",
     "gatsby-remark-double-brackets-link": "^0.1.11",
