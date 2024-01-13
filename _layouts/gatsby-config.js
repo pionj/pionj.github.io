@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/pionj.github.io`,
+  pathPrefix: `/`,
   siteMetadata: {
     title: `PION`,
   },
@@ -14,8 +14,9 @@ module.exports = {
           "**/.git/**",
           "**/.github/**",
           "**/.vscode/**",
-          "readme.md"
+          `${__dirname}/../readme/md`
         ],
+        parseWikiLinks: true
       },
     },
   ],

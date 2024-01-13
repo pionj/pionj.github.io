@@ -3,11 +3,17 @@
   "private": true,
   "description": "",
   "version": "1.0.0",
+  "peerDependencies": {
+    "gatsby": "*",
+    "react": "*",
+    "react-dom": "*"
+  },
   "dependencies": {
-    "gatsby": "^2.13.13",
     "gatsby-theme-garden": "^0.1.66",
-    "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "react-stacked-pages-hook": "^0.4.8",
+    "gatsby-remark-double-brackets-link": "^0.1.11",
+    "gatsby-remark-double-parenthesis-link": "0.1.5",
+    "gatsby-transformer-markdown-references": "^0.1.8"
   },
   "keywords": [
     "foam"
