@@ -4,7 +4,7 @@
   "description": "",
   "version": "1.0.0",
   "peerDependencies": {
-    "gatsby": "<=2.13.13",
+    "gatsby": "*",
     "react": "*",
     "react-dom": "*"
   },

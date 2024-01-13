@@ -30,7 +30,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gatsby-build-
       - name: Install website dependencies
-        run: npm install
+        run: npm install --force
         working-directory: _layouts
       - name: Build website
         run: npm run build -- --prefix-paths
