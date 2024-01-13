@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/pionj.github.io`,
   siteMetadata: {
-    title: `Foam`,
+    title: `PION`,
   },
   plugins: [
     {
