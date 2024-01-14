@@ -7,3 +7,6 @@ draft: false
 ---
 
 # 2
+
+- [[new1]]
+- [new2](new2)
