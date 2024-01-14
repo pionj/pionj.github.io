@@ -9,27 +9,22 @@ private: false
 
 # 연결점 목록
 
-- [✨ Ideas](✨/✨)
+[[test]]
 
-[[✨/✨]]  
+[test](test)
 
-[[✨]]  
+[[✨| ✨ Instant Idea]]  
 
-[✨/✨]  
+[[💡]]  
 
----
+[[📌]]  
 
-[[TODO]]  
+[[📦/index]]  
 
-- [[test]]
-- [test](test)
+[[📦/index|📦 Assets]]  
 
-- [[💡/💡]]
-- [[💡]]
+[[📦/index| 📦 Assets]]  
 
-- [[💡/💡.md]]
-- [💡](💡/💡.md)
-- [💡](💡/💡)
+[[📦/index | 📦 Assets]]  
 
-- [[📦]]
-- [[🔋]]
+[[🔋]]  
