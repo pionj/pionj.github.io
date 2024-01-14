@@ -9,7 +9,7 @@ private: false
 
 # 연결점 목록
 
-- [ideas](✨/index)
+- [✨ Ideas](✨/index)
 - [✨/index](✨/index.md)
 - [[✨/index]]
 

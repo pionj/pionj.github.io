@@ -1,0 +1,12 @@
+
+Todo:
+    ☐ @created(24-01-14 12:55) @2h30m
+    ✔ @created(24-01-14 12:58) @2h30m @started(24-01-14 12:58) @done(24-01-14 12:58) @lasted(52s) @project(Project) @project(Todo)
+    ✔ @created(24-01-14 12:58) @2h30m @done(24-01-14 13:03) @project(Project) @project(Todo)
+    ✔ @created(24-01-14 12:58) @2h30m @started(24-01-14 13:11) @done(24-01-14 13:11) @lasted(33s) @project(Project) @project(Todo)
+    ✘ @created(24-01-14 13:08) @2h30m @cancelled(24-01-14 13:11) @project(Project) @project(Todo)
+    ✔ @created(24-01-14 12:55) @2h30m @started(24-01-14 12:56) @done(24-01-14 12:56) @lasted(28s) @project(Todo) @project(Todo)
+
+Archive: 
+    ✔ Item @started(24-01-14 11:36) @2h30m @done(24-01-14 11:36) @lasted(43s) @project(Todo)
+    ✔ item2 @started(24-01-14 11:36) @2h30m @done(24-01-14 11:36) @lasted(25s) @project(Todo)

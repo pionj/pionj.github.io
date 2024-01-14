@@ -18,5 +18,6 @@
     "**/node_modules": true
   },
   "git.enableSmartCommit": true,
-  "git.postCommitCommand": "sync"
+  "git.postCommitCommand": "sync",
+  "todo-tree.tree.showBadges": false
 }

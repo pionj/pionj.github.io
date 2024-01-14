@@ -4,7 +4,6 @@ description: "ideas.md | (2024 January 13 Saturday)"
 date: 2024-01-13T15:24:57+09:00
 lastmod: 2024-01-13T15:24:57+09:00
 draft: true
-private: true
 ---
 
 ## Lojban 설계할때
