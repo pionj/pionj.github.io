@@ -16,24 +16,18 @@ private: false
   아무래도 가장 좋은건 신뢰감을 주는 것이고 이 테마의 핵심이 다 보이는 건데 미리보기가 안되고 알수없는 문자가 뜨면 불안할 것 같다.
 
 
-[[✨]] : Instant Idea  
+[[✨]] : Instant Idea [](✨/✨.md)  
 
 [[💡]] : Original Idea [](💡/💡.md)  
 
-[📌 Daily TODO](📌/📌)  
+[[📌]] : Daily TODO [](📌/📌.md)  
 
-[📦 Assets](📦/📦.md)  
+[📦 Assets](📦/index)  
 
-[[📦/📦.md]]  
+[[📦/index]]  
 
-[[📦]](📦/📦)  
+[[📦/📦]]  
+➜ 마지막으로 📦.md 로 바꿔서 실행해보면 끝.
 
-[[📦]](📦/📦.md)  
 
-[[📦]]  
-
-[[🔋]]  
-
-[[test]]
-
-[test](test)
+[[🔋]] : Reference Literature [](🔋/🔋.md)  

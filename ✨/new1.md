@@ -8,3 +8,9 @@ draft: false
 # "newtest"
 
 # Title
+
+
+[[test]]
+
+[test](../test.md)
+
