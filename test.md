@@ -3,8 +3,7 @@ title: test
 description: "test.md | (2024 January 13 Saturday)"
 date: 2024-01-13T19:14:11+09:00
 lastmod: 2024-01-13T22:49:04+09:00
-draft: false
-private: false
+private: true
 ---
 
 # test
