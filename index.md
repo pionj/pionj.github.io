@@ -10,17 +10,28 @@ private: false
 # 연결점 목록
 
 - [✨ Ideas](✨/index)
+- [[✨/index]][✨/index]
 - [[✨/index]]
+- [✨/index][[✨/index]]
+
+[[✨/index]]
+[✨/index]
+
+---
 
 [[TODO]]  
-[TODO](📌/TODO)
+
+[TODO](📌/TODO)  
+
 [Go TODO](📌/2024-01-14)  
 
 
 - [[test]]
 - [test](test)
 
-- [[index.mdx]]
+- [[💡/index.mdx]]
+- [[💡/index]]
+
 - [[📦/index]]
 - [[🔋/index]]
 
