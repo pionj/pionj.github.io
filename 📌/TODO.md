@@ -3,7 +3,9 @@ type: daily note
 draft: false
 ---
 
-# comments
+# TODO
+
+comments
 
 (A) test1 {cm:2024-01-14}
 
@@ -18,6 +20,6 @@ H2 {cm:2024-01-14}
 [[2024-01-14]]
 [[2024-01-15]]
 
-[Go TODO](2024-01-14)  
+[Go TODO](l./2024-01-14)  
 
 
