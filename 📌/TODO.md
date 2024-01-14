@@ -1,3 +1,8 @@
+---
+type: daily note
+draft: false
+---
+
 # comments
 
 (A) test1 {cm:2024-01-14}
