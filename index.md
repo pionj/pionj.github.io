@@ -13,7 +13,7 @@ private: false
 
 [test](test)
 
-[[✨| ✨ Instant Idea]]  
+[✨ Instant Idea](✨/✨.md)  
 
 [[💡]]  
 
@@ -21,10 +21,6 @@ private: false
 
 [[📦/index]]  
 
-[[📦/index|📦 Assets]]  
-
-[[📦/index| 📦 Assets]]  
-
-[[📦/index | 📦 Assets]]  
+[📦 Assets](📦/index)
 
 [[🔋]]  
