@@ -42,3 +42,10 @@ draft: false
 
 ➜ `또는(Or)` 으로 인식한다.
 ```
+
+6. 스타일시트 import
+Gatsby는 모든게 plugin 중심이라 단순히 css 하나 추가하는 것도 복잡한 의존성을 요구하는 것 같다.
+이미 이 theme 으로도 충분히 복잡하기때문에 스타일은 그냥 인라인으로 직접 넣기로 했다.
+```
+✘ <link rel="stylesheet" href="../📦/style.css"/>
+```

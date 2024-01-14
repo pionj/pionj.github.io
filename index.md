@@ -13,7 +13,7 @@ private: false
 
 [test](test)
 
-[✨ Instant Idea](✨/✨.md)  
+[✨ Instant Idea](✨/✨)  
 
 [[💡]]  
 
