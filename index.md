@@ -13,6 +13,10 @@ private: false
 - [✨/index](✨/index.md)
 - [[✨/index]]
 
+[[/C:/Users/jehak/pionj/pionj.github.io/📌/TODO.md]]  
+
+[Go TODO](📌/TODO)  
+
 - [[test]]
 - [test](test.md)
 - [[💡/index]]
