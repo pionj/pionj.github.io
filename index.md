@@ -25,6 +25,3 @@ private: false
 [[📦]] : Assets [](📦/📦.md)  
 
 [[🔋]] : Reference Literature [](🔋/🔋.md)  
-
-
-[[💡\/💡]]  
