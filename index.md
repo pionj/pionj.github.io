@@ -24,7 +24,4 @@ private: false
 
 [[📦]] : Assets [](📦/📦.md)  
 
-[[📦/📦]]  
-➜ 마지막으로 📦.md 로 바꿔서 실행해보면 끝.
-
 [[🔋]] : Reference Literature [](🔋/🔋.md)  
