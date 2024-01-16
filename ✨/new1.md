@@ -7,10 +7,8 @@ draft: false
 ---
 # "newtest"
 
-# Title
-
+# 1new
 
 [[test]]
 
 [test](../test.md)
-
