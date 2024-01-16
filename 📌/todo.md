@@ -3,7 +3,7 @@ title: "Todo"
 description: "todo.md | (2024 January 17 Wednesday)"
 date: 2024-01-17T00:59:01+09:00
 lastmod: 2024-01-17T00:59:02+09:00
-draft: true
+draft: false
 ---
 
 # Todo
