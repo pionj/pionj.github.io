@@ -18,7 +18,7 @@ private: false
 
 [[✨]] : Instant Idea [](✨/✨.md)  
 
-[[💡]] : Original Idea [](💡/💡.mdx)  
+[[💡]] : Original Idea [](💡/💡.md)  
 
 [[📌]] : Daily TODO [](📌/📌.md)  
 
@@ -29,4 +29,4 @@ private: false
 
 [[💡|💡Lightbulbs: Own Original Idea]]  
 
-[[💡.mdx]]  
+[[💡]]  
