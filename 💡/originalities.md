@@ -2,7 +2,7 @@
 description: "originalities.md | (2024 January 13 Saturday)"
 date: 2024-01-13T15:17:43+09:00
 lastmod: 2024-01-13T15:17:44+09:00
-draft: true
+draft: false
 ---
 
 ## originalities 의 시대가 온다?
