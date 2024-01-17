@@ -1,13 +1,11 @@
 ---
-title: 길라잡이
 description: "index.md | (2024 January 13 Saturday)"
 date: 2024-01-13T19:14:11+09:00
 lastmod: 2024-01-13T20:08:58+09:00
 draft: false
-private: false
 ---
 
-# 연결점 목록
+# 길라잡이: 연결점 목록
 
 두가지 선택지  
 1. `[]()` 방식은 미리보기가 안나온다. 대신 alt 텍스트와 함께 최대한 설명을 간결하게 해서 description 을 따로 넣던지.
