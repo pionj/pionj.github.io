@@ -5,7 +5,7 @@ lastmod: 2024-01-17T22:13:34+09:00
 draft: false
 ---
 
-# index
+# 🔋index
 
 [[paper1]]
 

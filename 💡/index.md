@@ -5,7 +5,7 @@ lastmod: 2024-01-17T22:02:20+09:00
 draft: false
 ---
 
-# index
+# 💡index
 
 [[ideas]]
 

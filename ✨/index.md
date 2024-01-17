@@ -5,7 +5,7 @@ lastmod: 2024-01-17T22:04:43+09:00
 draft: false
 ---
 
-# index
+# ✨index
 
 [[test]]
 

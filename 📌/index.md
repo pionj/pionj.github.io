@@ -5,7 +5,7 @@ lastmod: 2024-01-17T22:05:27+09:00
 draft: false
 ---
 
-# index page
+# 📌index
 > Alt + c is work
 
 [[todo]]

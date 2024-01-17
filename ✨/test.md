@@ -19,15 +19,11 @@ private 이나 draft나 미리보기는 된다.
 다른 메모의 한 섹션을 링크할 때는 이런 방식을 사용한다.  
 [[foam-tutorials]]>[상대경로-지원](#상대경로-지원) 
 
-또는, [[foam-tutorials]].[상대경로-지원](#상대경로-지원)
-
-[[test]]>[this-is-test-page](#this-is-test-page)  
-
-
 ---
 
 <a name="top"></a>
 
+\# num sign
 \u{231A}  
 U+0023  
 (U+23)  
