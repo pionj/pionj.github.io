@@ -16,5 +16,4 @@ export function Thing() {
 
 #TEDs
 
-
 <FoamLink>my-link-text</FoamLink>

@@ -26,7 +26,3 @@ private: false
 
 [[🔋]] : Reference Literature [](🔋/🔋.md)  
 
-
-[[💡|💡Lightbulbs: Own Original Idea]]  
-
-[[💡]]  

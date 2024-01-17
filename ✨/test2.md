@@ -9,8 +9,6 @@ draft: false
 
 ## first
 - [[new1]]
-- [[new2]]
-- [[new]]
 - [[new4 title]]
 
 1
