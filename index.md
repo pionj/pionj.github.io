@@ -18,10 +18,15 @@ private: false
 
 [[✨]] : Instant Idea [](✨/✨.md)  
 
-[[💡]] : Original Idea [](💡/💡.md)  
+[[💡]] : Original Idea [](💡/💡.mdx)  
 
 [[📌]] : Daily TODO [](📌/📌.md)  
 
 [[📦]] : Assets [](📦/📦.md)  
 
 [[🔋]] : Reference Literature [](🔋/🔋.md)  
+
+
+[[💡|💡Lightbulbs: Own Original Idea]]  
+
+[[💡.mdx]]  

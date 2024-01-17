@@ -1,10 +1,10 @@
 ---
-title: "foam-tutorials" 
 description: "foam-tutorials.md | (2024 January 14 Sunday)"
 date: Insert datetime string (Alt+d)
 lastmod: Insert datetime string (Alt+d)
 draft: false
 ---
+# "foam-tutorials" 
 
 # Foam 사용법
 
@@ -81,7 +81,8 @@ Gatsby는 모든게 plugin 중심이라 단순히 css 하나 추가하는 것도
 아니면 소제목 마다 TOC 이동을 달자. 이게 그나마 마크다운 내에서 해결 가능한 방법인듯.
 
 7. 내가 쓰는 테마에서는 마크다운 문법의 상대경로를 제대로 반영하지 못한다. 그래서 아래처럼 항상 절대경로를 적어야한다.
-  [[./todo]] 위키링크 방식 역시 상대 경로를 절대 경로로 해석한다. (항상 루트부터 시작)
+  `[[./todo]]` 위키링크 방식 역시 상대 경로인데도 절대 경로로 해석한다. (항상 루트부터 시작) 
+  아마도 slugify 의 영향인 것 같다.
 ```
 [Go TODO](📌/2024-01-14)  
 
@@ -111,6 +112,15 @@ Gatsby는 모든게 plugin 중심이라 단순히 css 하나 추가하는 것도
 😕
 :panic:  
 
+
+9. 무시 경로
+"${projectRoot}/foam-templates/**/*"
+projectRoot 변수 에러나서 지우니 지금은 잘 작동함
+
+
+1.  vscode variable
+$TM_FILENAME
+$TM_FILENAME_BASE
 
 ## 상대경로 지원
 왜 상대경로로 이동 못하지? 
