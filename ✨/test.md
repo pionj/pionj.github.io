@@ -16,20 +16,13 @@ private 이나 draft나 미리보기는 된다.
 
 ---
 
-다른 메모의 한 섹션을 링크할 때는 [[새로운 시스템]]>[지식-돈-영향력을-그래프로-시각화](#지식-돈-영향력을-그래프로-시각화)  
+다른 메모의 한 섹션을 링크할 때는 이런 방식을 사용한다.  
+[[foam-tutorials]]>[상대경로-지원](#상대경로-지원) 
 
-또는, [[새로운 시스템]].[지식-돈-영향력을-그래프로-시각화](#지식-돈-영향력을-그래프로-시각화)  
+또는, [[foam-tutorials]].[상대경로-지원](#상대경로-지원)
 
-[[새로운 시스템]]>[git-issue-pr-기반-댓글-오픈소스](#git-issue-pr-기반-댓글-오픈소스)  
+[[test]]>[this-is-test-page](#this-is-test-page)  
 
-
-[[originalities]]>[originalities-란-무엇인가](#originalities-란-무엇인가)  
-
-[[test]]>[#this-is-test-page](#this-is-test-page)  
-
-[[2024-01-14]]><#2024-01-14-january--saturday>  
-
-[[test]]><#this-is-test-page>  
 
 ---
 
