@@ -7,36 +7,8 @@ draft: true
 
 # someday: 언젠간 할일
 
-- [ ] 체크박스 눈에 띄게 스타일 바꾸기
-
-
-
-[est], [est-total], [est-finished] [est-finished-percentage]
-
-The following tokens can be used in 
-
-todo.statistics.project.text, 
-todo.statistics.statusbar.text
-todo.statistics.statusbar.tooltip, 
-
-they will be replaced with the value they represent.
-
-Token	Value
-[comments]	Number of comments
-[projects]	Number of projects
-[tags]	Number of tags
-[pending]	Number of pending todos
-[done]	Number of done todos
-[cancelled]	Number of cancelled todos
-[finished]	Number of finished todos
-[all]	Number of todos
-[percentage]	Percentage of finished todos
-[est]	Estimated time left
-[est-total]	Total estimated time
-[est-finished]	Estimated time of finished todos
-[est-finished-percentage]	Percentage of estimated time in finished todos
-[lasted]	Time the task lasted
-[wasted]	Time wasted on task
-e.g. tag: @wasted(2h)
-
-[elapsed]	Sum of [lasted] and [wasted]
+⬜ 체크박스 눈에 띄게 스타일 바꾸기
+⬜ etude(습작-여기에다가 드래프트 만들어서 책이나 긴 논문같은 전문적인 문서 정리), book 폴더(여기는 html 배포용) 만들고, 해당 경로는 gatsby 빌드 무시하도록 지정함. 기존 hugo용 블로그는 놔두고, 여기에서 zola로 빌드하면 book 폴더로 갈거고, marp 빌드하면 ppt나 slide 폴더로 갈거고 그것도 gatsby 빌드 무시. 이것도 presentation 폴더에 연습하던지, 발표준비 이런 느낌으로 만들고, 배포용으로 slides? 
+아무튼 그러면 나중에 github.io/book 이나 slide 처럼 경로만 그쪽으로 옮기면 다른 페이지가 나오게끔 할수 있을테니까. 
+⬜ 제텔카스텐 커뮤니티에 소프트웨어 깔끔한게 있던데, 어떤건지 찾아보기 #TODO @delayed
+- [ ] 크로스체인 내용 정리, 자소서 전체적으로 정리 {due:2024-01-15}

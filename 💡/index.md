@@ -12,3 +12,5 @@ draft: false
 [[teds]]
 
 [[originalities]]
+
+[[역량 분석]]
