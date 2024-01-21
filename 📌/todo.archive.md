@@ -8,6 +8,6 @@ draft: true
 # todo.archive
 
 - ✅ TODO 부분하고 Test 부분만 체크하고 다 지우자. {due:2024-01-15} {cm:2024-01-17T22:49:13}
-✅ foam-templates (daily-note, new-note) 컴파일 되지 않았는지 체크하기 #TODO @delayed {due:2024-01-14} {cm:2024-01-17T01:51:57} 
+✅ foam-templates (daily-note, new-note) 컴파일 되지 않았는지 체크하기 #Todo @delayed {due:2024-01-14} {cm:2024-01-17T01:51:57} 
 ✅ 이력서 정리하기 {due:2024-01-14} {cm:2024-01-17T00:49:29} 
 ✅ pionj 정리하기 {due:2024-01-14} {cm:2024-01-17T00:49:30} 
