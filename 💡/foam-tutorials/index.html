@@ -50,8 +50,16 @@ Gatsby는 모든게 plugin 중심이라 단순히 css 하나 추가하는 것도
 </code></pre><p>😕
 :panic:  </p><ol start="9"><li>무시 경로
 &quot;${projectRoot}/foam-templates/*<em>/</em>&quot;
-projectRoot 변수 에러나서 지우니 지금은 잘 작동함</li></ol><ol start="10"><li>vscode variables
+projectRoot 변수 에러나서 지우니 지금은 잘 작동함</li></ol><ol start="10"><li><p>vscode variables
 $TM_FILENAME
-$TM_FILENAME_BASE</li></ol><h2 id="상대경로-지원">상대경로 지원</h2><p>왜 상대경로로 이동 못하지?
+$TM_FILENAME_BASE</p></li><li><p>이미지는 어차피 절대경로든 상대경로든 의미없다. 그냥 기존 마크다운 문법대로 상대경로로 path 지정해놓으면 알아서 변환해준다. 변환 당시 읽기 가능한 경로로 입력해야함. 아래 예시는 전부 안됨.</p></li></ol><pre><code>⛔:  
+![짐바드로-시간관검사](📦/짐바드로-시간관검사)  
+![짐바드로-시간관검사](📦/짐바드로-시간관검사.png)  
+![짐바드로-시간관검사](/📦/짐바드로-시간관검사)  
+![짐바드로-시간관검사](/📦/짐바드로-시간관검사.png)  
+![짐바드로-시간관검사](//📦/짐바드로-시간관검사)  
+![짐바드로-시간관검사](//📦/짐바드로-시간관검사.png)  
+![짐바드로-시간관검사](../📦/짐바드로-시간관검사)  
+</code></pre><h2 id="상대경로-지원">상대경로 지원</h2><p>왜 상대경로로 이동 못하지?
 내가 사용하는 툴 중에 무엇이 문제일까
 Foam, gatsby-garden-theme 이 중 어딘가에 문제가 있을것 같다.</p><h2 id="테스트-제목-">테스트 제목 <a href="#toc">🔝</a></h2><p>클릭해서 위로 가자</p><div class="references-block"><h3>Referred in</h3><div><div><a class="reference" href="/✨/test"><div><h5>This is test page</h5></div></a></div><div><a class="reference" href="/💡/💡"><div><h5>💡Lightbulbs: Own Original Idea</h5></div></a></div></div></div></div><a class="obstructed-label" href="/💡/foam-tutorials">&quot;foam-tutorials&quot; </a></div></div></div></div></div><div id="gatsby-announcer" style="position:absolute;top:0;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0" aria-live="assertive" aria-atomic="true"></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.pagePath="/💡/foam-tutorials";/*]]>*/</script><script id="gatsby-chunk-mapping">/*<![CDATA[*/window.___chunkMapping={"polyfill":["/polyfill-50a4d893c587401d5e95.js"],"app":["/app-f2e28293de195f3b86a6.js"],"component---node-modules-gatsby-theme-garden-src-templates-local-file-js":["/component---node-modules-gatsby-theme-garden-src-templates-local-file-js-8351711e21a2d88002e5.js"]};/*]]>*/</script><script src="/polyfill-50a4d893c587401d5e95.js" nomodule=""></script><script src="/component---node-modules-gatsby-theme-garden-src-templates-local-file-js-8351711e21a2d88002e5.js" async=""></script><script src="/styles-0ec71dd62c66cb95665c.js" async=""></script><script src="/app-f2e28293de195f3b86a6.js" async=""></script><script src="/framework-22e284bb9c60c9c4a40e.js" async=""></script><script src="/webpack-runtime-c958da161112ba440036.js" async=""></script></body></html>
