@@ -13,7 +13,7 @@
 ✘ [[📦/📦.md]]  
 
 </code></pre><p>위의 경로는 유니코드라서 안됐는데 (아예 url로 변환이 안되서 입력이 안됨, 빈문자열로 들어감) 일반 텍스트는 잘 이동이 된다.
-확장자까지 입력을 하면 안되는건가.</p><p>일단 경로 넣을거면 기존 마크다운 방식으로 하고
+확장자까지 입력을 하면 안되는건가. 참고로 한글도 인식이 안된다. 빈문자열로 되버린다. 영어만 가능.</p><p>일단 경로 넣을거면 기존 마크다운 방식으로 하고
 위키링크로 넣을거면 파일명만 넣는게 좀더 직관적이긴 하다.</p><ol start="5"><li>무슨 이유에서인지 위키링크의 description 표현이 되지 않는다. 우선 기본 경로 방식을 사용하자.</li></ol><pre><code>[[📦/index|📦 Assets]]  
 
 [[📦/index| 📦 Assets]]  
@@ -50,7 +50,7 @@ Gatsby는 모든게 plugin 중심이라 단순히 css 하나 추가하는 것도
 </code></pre><p>😕
 :panic:  </p><ol start="9"><li>무시 경로
 &quot;${projectRoot}/foam-templates/*<em>/</em>&quot;
-projectRoot 변수 에러나서 지우니 지금은 잘 작동함</li></ol><ol><li>vscode variable
+projectRoot 변수 에러나서 지우니 지금은 잘 작동함</li></ol><ol start="10"><li>vscode variables
 $TM_FILENAME
 $TM_FILENAME_BASE</li></ol><h2 id="상대경로-지원">상대경로 지원</h2><p>왜 상대경로로 이동 못하지?
 내가 사용하는 툴 중에 무엇이 문제일까
