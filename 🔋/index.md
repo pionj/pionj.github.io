@@ -11,3 +11,7 @@ draft: false
 
 [[zettelkasten]]
 
+[[SymbolicAI]]
+
+[[AtomicNotes]]
+
