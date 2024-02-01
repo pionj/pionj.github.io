@@ -7,8 +7,13 @@ draft: true
 
 # todo.archive
 
-## 아카이브는 1년단위로 할지 분기, 반기 단위로 할지 쌓이는 양 보고 판단해보자
+"foam.files.ignore": [
+  "📌/todo.md",
+  "📌/todo.archive.md",
+  "📌/someday.md"
+]
 
+## 아카이브는 1년단위로 할지 분기, 반기 단위로 할지 쌓이는 양 보고 판단해보자
 
 ✅ TODO 부분하고 Test 부분만 체크하고 다 지우자. {due:2024-01-15} {cm:2024-01-17T22:49:13}
 ✅ foam-templates (daily-note, new-note) 컴파일 되지 않았는지 체크하기 #Todo @delayed {due:2024-01-14} {cm:2024-01-17T01:51:57} 
@@ -96,3 +101,4 @@ draft: true
 ✅ 제텔카스텐 커뮤니티에 소프트웨어 깔끔한게 있던데, 어떤건지 찾아보기 #TODO @delayed {cm} The Archive, 브라우저 기록 찾아보기
 
 ✅ 체크박스 눈에 띄게 스타일 바꾸기 {cm} 기본 마크다운 문법 말고 이모지로 대체함
+

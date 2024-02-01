@@ -8,6 +8,11 @@ draft: true
 # someday: 언젠간 할일
 
 
+⬜ 코인원 (벌써 끝남, 26일에 포티투닷 낼 때 확인했었어야... 정신 안차리지?!)
+  코빗, 코인원은 나중에 채용나오면 신입으로 가도 괜찮으려나?
+  일단 취업하고 나서...
+    ByBit, Pionex, ProBit (no kyc, withdraw)
+
 ⬜ etude(습작-여기에다가 드래프트 만들어서 책이나 긴 논문같은 전문적인 문서 정리), book 폴더(여기는 html 배포용) 만들고, 해당 경로는 gatsby 빌드 무시하도록 지정함. 기존 hugo용 블로그는 놔두고, 여기에서 zola로 빌드하면 book 폴더로 갈거고, marp 빌드하면 ppt나 slide 폴더로 갈거고 그것도 gatsby 빌드 무시. 이것도 presentation 폴더에 연습하던지, 발표준비 이런 느낌으로 만들고, 배포용으로 slides? \n 아무튼 그러면 나중에 github.io/book 이나 slide 처럼 경로만 그쪽으로 옮기면 다른 페이지가 나오게끔 할수 있을테니까. 
 
 
