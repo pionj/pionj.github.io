@@ -47,11 +47,17 @@ todo는 오히려 한군데 몰아넣는게 추적하기 편하긴하다.
 
 지원서 제출
   ✅포티투닷 2024-01-26 (금) ⛔ 반려! {cm}
-  피어테크
-  블록체인랩스
-  모인
-  티맥스
+  피어테크 
+  블록체인랩스 
 
+  모인 
+  티맥스 
+
+⬜ 아타드주식회사/블록체인 백엔드 개발자/서울 강남구 소재지/2024.03.31.일 마감 <채용정보 제공>
+  https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=47432523&view_type=search
+
+⬜ 에그버스
+  https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=47362134&view_type=list
 
 ✅ 면접 준비 겸 외출 {cm}
   ✅ 머리커트 미용실... {cm}
