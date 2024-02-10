@@ -137,8 +137,24 @@ $TM_FILENAME_BASE
 ## 상대경로 지원
 왜 상대경로로 이동 못하지? 
 내가 사용하는 툴 중에 무엇이 문제일까
-Foam, gatsby-garden-theme 이 중 어딘가에 문제가 있을것 같다.
+Foam, gatsby-garden-theme 이 중 어딘가에 문제가 있을것 같다.  
+➜ 이게 어떤 문제를 말하는 건지 명확하지 않습니다.  
+그래서 일단 현재 문제가 되는 부분만 적겠습니다.  
 
+```
+[Slide HTML1](Untitled-1.html) ✅
+
+[Slide HTML2](./Untitled-1.html) ✅
+
+[Slide HTML3](../📦/Untitled-1.html) ✅
+
+[Slide HTML4](📦/Untitled-1.html) ⛔
+절대경로처럼 사용됨
+
+[Slide HTML5](/📦/Untitled-1.html) ⛔
+절대경로처럼 사용됨
+
+```
 
 ## 테스트 제목 [🔝](#toc)
 클릭해서 위로 가자
