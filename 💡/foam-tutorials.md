@@ -149,11 +149,10 @@ Foam, gatsby-garden-theme 이 중 어딘가에 문제가 있을것 같다.
 [Slide HTML3](../📦/Untitled-1.html) ✅
 
 [Slide HTML4](📦/Untitled-1.html) ⛔
-절대경로처럼 사용됨
+절대경로처럼 사용됨(스택 가장 앞에서 열림)
 
 [Slide HTML5](/📦/Untitled-1.html) ⛔
-절대경로처럼 사용됨
-
+절대경로처럼 사용됨(스택 가장 앞에서 열림)
 ```
 
 ## 테스트 제목 [🔝](#toc)
