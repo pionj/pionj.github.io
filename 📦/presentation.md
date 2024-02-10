@@ -14,7 +14,7 @@ paginate: true
 
 김재하
 
-[슬라이드 링크](presentation.html)
+[[presentation.html]]
 
 ---
 
