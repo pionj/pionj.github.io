@@ -16,10 +16,6 @@ paginate: true
 
 Start writing!
 
-[Slide](Untitled-1.html) ✅
-
-[[Untitled-1.html]]
-
 ---
 
 # **Marp**
@@ -31,7 +27,6 @@ https://marp.app/
 <!-- here is caption, for presentation note -->
 
 ---
-
 
 # How to write slides
 
