@@ -11,6 +11,15 @@ paginate: true
 <!-- uncover or gaia -->
 <!-- ![bg left:40% 80%](https://marp.app/assets/marp.svg) -->
 <!--header: Marps -->
+    
+    <!-- headingDivider: 2 -->
+
+    <style>
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    </style>
+
 
 # Your slide deck
 
@@ -46,3 +55,44 @@ foobar
 
 foobar
 ```
+
+---
+
+# 🙌 
+# 🖐 
+# 👍
+# 🙏
+# 😁
+
+---
+
+# 🎇
+# 👓
+# 🕶
+# 🤿
+# 📞
+
+---
+
+# ☎
+# 📡
+# 📧
+# ✉
+# 📨
+
+---
+
+# 📫
+# 📪
+# 📬
+# 📭
+# 📮
+
+---
+
+# 🗳
+# ❤
+# 💌
+# 🔆
+# 💬
+
