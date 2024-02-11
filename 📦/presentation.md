@@ -6,17 +6,14 @@ _class:
   - invert
 class: invert
 paginate: true
----
-
-<style>
+style: |
   section.last {
     display: flex; 
     flex-flow: column nowrap; 
     justify-content: center; 
     align-items: center; 
   }
-</style>
-
+---
 
 # 입사 후 포부, 소개 프리젠테이션
 
@@ -61,7 +58,5 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 <!-- _class: last invert -->
 
 # 👋
-
-[[presentation.html]]
 
 jehakim22oct@naver.com

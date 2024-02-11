@@ -6,9 +6,13 @@ _class:
   - invert
 class: invert
 paginate: true
+style: |
+  section {
+
+  }
 ---
 
-<!-- uncover or gaia -->
+<!-- uncover or gaia or base-theme -->
 <!-- ![bg left:40% 80%](https://marp.app/assets/marp.svg) -->
 <!--header: Marps -->
     
@@ -95,4 +99,3 @@ foobar
 # 💌
 # 🔆
 # 💬
-
