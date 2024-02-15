@@ -81,12 +81,13 @@ todo는 오히려 한군데 몰아넣는게 추적하기 편하긴하다.
   ✅ 시계방 {cm}
 
 ⬜ Rust codecademy 마무리
-⬜ Redis, kafka
 ⬜ + go tour, rust tour
+⬜ Redis, kafka
 ⬜ 알고리즘 강의 다시 정주행
 
 ⬜ 암호학공부? 
   ⬜ 타원곡선 -> python code to rust porting? binding? implementing
+    https://www.youtube.com/watch?v=YTwGdU_B8Po&t=2120s
   ⬜ 영지식?
 
 ⬜ 아토믹 스왑 개념
@@ -137,3 +138,8 @@ git pull, fetch, merge
 #####
 
 learn you a great good haskell 번역하기 (책보고 초벌, 내가 수정한거 노원평생교육원에서 빌려서 참고) 소장하고 싶은데 없으니 번역하자. 
+
+#####
+
+편아트지 재활용?
+무광 라미네이팅 코팅 필름? 

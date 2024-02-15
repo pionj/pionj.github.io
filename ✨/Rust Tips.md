@@ -51,3 +51,24 @@ lifetime,
 
 trait, 
 객체 지향 개념으로 설명하면, 상태 변수 없는 abstract class.
+
+---
+
+`?` 대신 `+`가 들어갔다면 자연스럽게 이해가 되는데, 어째서 물음표를 넣어도 패턴이 여러번 나오는 정상작동이 되는지 알수가 없다.
+
+그럼 러스트 언어의 부족한 부분이라고 봐도 되겠지? 
+
+It does not force the result 0 or 1, when I use `?` in `*` repetition.
+
+use ? within a * repetition in Rust macros can be considered a language feature that might lead to confusion or unintended behavior. 
+하지만 당장 고쳐야할 사항으로 보이진 않는게, 매크로 패턴을 알고 쓸 정도면 그런 실수를 하지는 않을테니 당장 중요한 문제는 아닐듯.
+그리고 나는 Rust보다는 Curry 나 Mercury 에 기여를 더 하고 싶은데...
+이럴 때가 아닌거야. 빨리 기초는 다 끝내버리고 본 게임으로 들어가서 깊이를 더해야지... 
+
+---
+Rewind, Remind, 복습 할만한 내용:
+Cargo Manifest
+Module
+Macros
+Attributes
+Structs and Enums
