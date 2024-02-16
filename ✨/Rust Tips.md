@@ -72,3 +72,23 @@ Module
 Macros
 Attributes
 Structs and Enums
+
+---
+rust codecademy
+중요한 내용을 담으려 노력한것이 보인다
+too plain and passive but It seems like an effort was made to include important information.
+
+to be more active and hard course
+
+That's all, thank you for sharing! Your feedback helps us improve our courses.
+Keep up the great progress!
+
+---
+
+cargo edit
+cargo watch
+cargo expand
+cargo make
+cargo geiger
+cargo crev
+

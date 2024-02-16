@@ -19,3 +19,4 @@ draft: false
 
 [[학습태도]]
 
+[[CICD]]

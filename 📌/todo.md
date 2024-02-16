@@ -80,10 +80,10 @@ todo는 오히려 한군데 몰아넣는게 추적하기 편하긴하다.
   ✅ 머리커트 미용실... {cm}
   ✅ 시계방 {cm}
 
-⬜ Rust codecademy 마무리
-⬜ + go tour, rust tour
-⬜ Redis, kafka
-⬜ 알고리즘 강의 다시 정주행
+✅ Rust codecademy 마무리 {cm:2024-02-15T23:56:49}
+⬜ +go tour, +rust tour 
+⬜ Redis, kafka 
+⬜ 알고리즘 강의 다시 정주행 
 
 ⬜ 암호학공부? 
   ⬜ 타원곡선 -> python code to rust porting? binding? implementing

@@ -28,8 +28,8 @@ style: |
 
 # 연구 및 학습 주제 ✏
 
-- DID
 - Provenance
+- DID
 - Zero Knowledge scheme
 
 
@@ -39,8 +39,8 @@ style: |
 
 # 관심사 :smile:
 
-- Logic and Functional Programming Language
 - Linked Data (Graph Data)
+- Logic and Functional Programming Language
 
 
 <!-- 관심사는 이렇습니다. 언어 학습, 함수형 등
