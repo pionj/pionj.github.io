@@ -7,6 +7,7 @@ _class:
 class: invert
 paginate: true
 style: |
+  @import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);
   @font-face { 
     font-family:MaruBuri-Regular; 
     src:url(./MaruBuri-Regular.ttf);
@@ -16,15 +17,23 @@ style: |
     src:url(./NanumMyeongjo.ttf);
   }
   @font-face { 
-    font-family:NS; 
+    font-family:NSR; 
     src:url(./NanumSquareR.ttf);
+  }
+  @font-face { 
+    font-family:NSB; 
+    src:url(./NanumSquareB.ttf);
+  }
+  @font-face { 
+    font-family:NS; 
+    src:url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);
   }
   body { 
     font-family: "MaruBuri-Regular", sans-serif; 
     font-size: 10px;
   }
   section.slide {
-    font-family: "NS", "NSB", serif !important;
+    font-family: "NanumSquare", "NS", "NSR", "NSB", serif !important;
   }
   section.center {
     display: flex; 
