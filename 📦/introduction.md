@@ -90,7 +90,7 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 
 <br />
 
-<small>
+<small style="margin-top:1.2em">
 1만 시간의 법칙에서 석사 2년, 
 현업 3년 주니어, 시니어 5년으로 가정
 </small>
@@ -120,22 +120,22 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 # 3년 계획
 
 <br />
-<div style="width:106%;height:40%; display:flex;justify-content: space-between;font-size: 17px; text-align:center">
-<table border="0" cellspacing="0" style="width:30%">
+<div style="width:108%;height:40%; display:flex;justify-content: space-between;font-size: 17px; text-align:center">
+<table border="0" cellspacing="0" style="width:31%">
   <tr><td port="port1" border="1"><b> 1년차 </b></td></tr>
   <tr><td port="port2" border="1"><i> 기준일: 2024년 3월 1일 ~ 2025년 3월 1일 </i></td></tr>
   <tr><td port="port3" border="1"> Basic abstract algebra and cryptology </td></tr>
   <tr><td port="port4" border="1"> ZK for blockchain system </td></tr>
 </table>
 <div><br /><br /><br /><br />➜</div>
-<table border="0" cellspacing="0" style="width:30%">
+<table border="0" cellspacing="0" style="width:31%">
   <tr><td port="port1" border="1"><b> 2년차 </b></td></tr>
   <tr><td port="port2" border="1"><i> 기준일: 2025년 3월 1일 ~ 2026년 3월 1일 </i></td></tr>
   <tr><td port="port3" border="1"> DID with ZK, selective disclosure </td></tr>
   <tr><td port="port4" border="1"> DID in LD, graph representation/visualization </td></tr>
 </table>
 <div><br /><br /><br /><br />➜</div>
-<table border="0" cellspacing="0" style="width:30%">
+<table border="0" cellspacing="0" style="width:31%">
   <tr><td port="port1" border="1"><b> 3년차 </b></td></tr>
   <tr><td port="port2" border="1"><i> 기준일: 2026년 3월 1일 ~ 2027년 3월 1일 </i></td></tr>
   <tr><td port="port3" border="1"> Applying previous research to enterprise product </td></tr>
