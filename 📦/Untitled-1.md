@@ -105,7 +105,8 @@ foobar
 
 <!-- _class: slide invert -->
 
-<div class="mermaid">
+
+```mermaid
 ---
 title: Animal example
 ---
@@ -123,8 +124,7 @@ classDiagram
     class 3년 {
       3
     }
-</div>
-
+```
 
 ---
 <div class="mermaid">
