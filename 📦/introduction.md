@@ -79,7 +79,7 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 <h2> 업무 외 학습에 투자할 시간: </h2>
 <h2> 2,340시간 (3년간) </h2>
 
-<br>
+<br />
 
 <small>
 1만 시간의 법칙에서 석사 2년, 
@@ -98,9 +98,9 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 
 <small>
 주니어 3년: 
-<br>평일 각 1시간, 주말 각 5시간, 매주 총 15시간씩 📖
-<br>1년 = 52주 * 15시간 = 780시간  
-<br>780시간 * 3년 = 2,340시간
+<br />평일 각 1시간, 주말 각 5시간, 매주 총 15시간씩 📖
+<br />1년 = 52주 * 15시간 = 780시간  
+<br />780시간 * 3년 = 2,340시간
 </small>
 
 
@@ -110,7 +110,7 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 
 # 3년 계획
 
-<br>
+<br />
 <div style="width:106%;height:40%; display:flex;justify-content: space-between;font-size: 17px; text-align:center">
 <table border="0" cellspacing="0" style="width:30%">
   <tr><td port="port1" border="1"><b> 1년차 </b></td></tr>
@@ -118,14 +118,14 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
   <tr><td port="port3" border="1"> Basic abstract algebra and cryptology </td></tr>
   <tr><td port="port4" border="1"> ZK for blockchain system </td></tr>
 </table>
-<div><br><br><br><br>➜</div>
+<div><br /><br /><br /><br />➜</div>
 <table border="0" cellspacing="0" style="width:30%">
   <tr><td port="port1" border="1"><b> 2년차 </b></td></tr>
   <tr><td port="port2" border="1"><i> 기준일: 2025년 3월 1일 ~ 2026년 3월 1일 </i></td></tr>
   <tr><td port="port3" border="1"> DID with ZK, selective disclosure </td></tr>
   <tr><td port="port4" border="1"> DID in LD, graph representation/visualization </td></tr>
 </table>
-<div><br><br><br><br>➜</div>
+<div><br /><br /><br /><br />➜</div>
 <table border="0" cellspacing="0" style="width:30%">
   <tr><td port="port1" border="1"><b> 3년차 </b></td></tr>
   <tr><td port="port2" border="1"><i> 기준일: 2026년 3월 1일 ~ 2027년 3월 1일 </i></td></tr>
