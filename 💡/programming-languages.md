@@ -331,3 +331,12 @@ https://www.codenameone.com/compare.html
 
 
 ---
+
+자바는 교회다...!
+솔리디티 같은 부류도 마찬가지.
+산업 초창기 널리 퍼져서 신도들이 생긴 신앙이자 교단...
+그들이 보기엔 다른 모든 부류들도 그저 종교에 지나지 않겠지만.
+
+quote by Joe Armstrong on IBM and OO programming :
+
+> After its introduction OOP became very popular (I will explain why later) and criticising OOP was rather like “swearing in church”. OOness became something that every respectable language just had to have.

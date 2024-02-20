@@ -148,7 +148,7 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
     1. zkEVN, zkWASM (5개 기술문서 or 아티클 or 논문 학습/1주 ~90H 6주 1.38달)
     2. Substrate with Arkworks (~90H)
     3. Aptos/Sui ZKP implementation (~90H)
-    4. SnarkyJS (Mina) (~90H)
+    4. o1js (Mina) (~90H)
   - 정리 및 요구조건 확인 (~30H 2주)
 
 ###### : 총합: 780시간
