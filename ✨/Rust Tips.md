@@ -92,3 +92,10 @@ cargo make
 cargo geiger
 cargo crev
 
+---
+
+languages? algorithm?: 
+lookahead distance
+lookahead carry
+lookahead optimizer
+lookahead bias
