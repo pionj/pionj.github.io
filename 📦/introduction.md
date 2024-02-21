@@ -78,7 +78,7 @@ style: |
 - Logic and Functional Programming Language
 
 
-<!-- 관심사는 이렇습니다. 언어 학습, 함수형 등
+<!-- 개인적인 관심사는 이렇습니다. 언어 학습, 함수형 등
 Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 
 ---
@@ -163,14 +163,8 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 ###### : 총합: 780시간
 
 <!-- 
-  앞으로는 이런 분야를 더 공부하고 전문 영역으로 만들고 싶습니다. 
-  회사 기여는 이렇게 하고 싶습니다. 
+  앞으로는 이런 분야를 더 공부해서 전문 영역으로 만들고 회사에 기여하고 싶습니다. 
   감사합니다. 
-
-  업무 외적으로 어떻게 성장할것인지, 
-  가령 정수론 경희대 유투브 강의 같은 것들을 
-  연차별로, 커리큘럼을 구체적으로 나열하는 편이 더 설득력이 있겠다. 
-  테이블이나 그래프나 적절한 표현방식을 사용하기.
 -->
 
 ---
