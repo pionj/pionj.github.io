@@ -149,7 +149,7 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 # 1년차 학습 계획 📒
 어떤 커리큘럼으로 할지, 어느정도 시간 할애를 할지.
 - 정수론, 암호학
-  - Basic abstract algebra and cryptology
+  - Abstract algebra and Cryptology
     1. 경희 수학 채널 [정수론] 강의 63개(5개/1주 ~195H 13W 3달)
     2. 리얼월드 암호학 책 81개 소챕터(7개/1주 ~195H)
 - 블록체인 시스템
