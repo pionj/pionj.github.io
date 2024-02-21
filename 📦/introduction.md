@@ -154,7 +154,7 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
     2. 리얼월드 암호학 책 81개 소챕터(7개/1주 ~195H)
 - 블록체인 시스템
   - 케이스 스터디 (ZK for blockchain system)
-    1. zkEVN, zkWASM (5개 기술문서 or 아티클 or 논문 학습/1주 ~90H 6주 1.38달)
+    1. zkEVM, zkWASM (5개 기술문서 or 아티클 or 논문 학습/1주 ~90H 6주 1.38달)
     2. Substrate with Arkworks (~90H)
     3. Aptos/Sui ZKP implementation (~90H)
     4. o1js (Mina) (~90H)
