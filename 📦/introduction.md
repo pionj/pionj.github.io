@@ -151,13 +151,13 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 - 정수론, 암호학
   - Abstract algebra and Cryptology
     1. 경희 수학 채널 [정수론] 강의 63개(5개/1주 ~188.5H 13주 3달)
-    2. 리얼월드 암호학 책 81개 소챕터(7개/1주 ~H)
+    2. 리얼월드 암호학 책 81개 소챕터(7개/1주 3달)
 - 블록체인 시스템
   - 케이스 스터디 (ZK for blockchain system)
     1. zkEVM, zkWASM (5개 기술문서 or 아티클 or 논문 학습/1주 ~87H 6주)
-    2. Substrate with Arkworks (~H)
-    3. Aptos/Sui ZKP implementation (~H)
-    4. o1js (Mina) (~H)
+    2. Substrate with Arkworks (6주)
+    3. Aptos/Sui ZKP implementation (6주)
+    4. o1js (Mina) (6주)
   - 정리 및 요구조건 확인 (~29H 2주)
 
 ###### : 총합: 754시간
