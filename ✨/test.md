@@ -48,3 +48,14 @@ Inbox 원칙, 받은 편지함을 비운다 이런것도 좋긴한데
 번뜩임! 에 더 직관적으로 와닿아서 ✨ 이걸로 결정.
 
 🧩 piece, pion
+
+
+
+@conalnet37:online
+
+[@conalnet37:online]
+
+
+# refs
+
+[@conalnet37:online] : http://conal.net/papers/icfp97/

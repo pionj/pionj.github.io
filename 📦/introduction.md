@@ -86,15 +86,15 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 <!-- _class: slide center invert -->
 
 <h2> 업무 외 학습에 투자할 시간: </h2>
-<h2> 2,340시간 (3년간) </h2>
+<h2> 2,262시간 (3년간) </h2>
 
 <br />
 
 <small style="margin-top:1.2em">
-1만 시간의 법칙에서 석사 2년, 
-현업 3년 주니어, 시니어 5년으로 가정
+1만 시간의 법칙에서 석사 2년(4,160시간) (풀타임 40시간*104주)
 </small>
 <small>
+현업 3년 주니어, 시니어 5년으로 가정 /
 10년을 기준으로 러프하게 세운 기준
 </small>
 
@@ -107,9 +107,9 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 
 <small>
 주니어 3년: 
-<br />평일 각 1시간, 주말 각 5시간, 매주 총 15시간씩 📖
-<br />1년 = 52주 * 15시간 = 780시간  
-<br />780시간 * 3년 = 2,340시간
+<br />평일 각 1.5시간, 주말 각 3.5시간, 매주 총 14.5시간씩 📖
+<br />1년 = 52주 * 14.5시간 = 754시간  
+<br />754시간 * 3년 = 2,262시간
 </small>
 
 
@@ -123,21 +123,21 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 <div style="width:108%;height:40%; display:flex;justify-content: space-between;font-size: 17px; text-align:center">
 <table border="0" cellspacing="0" style="width:31%">
   <tr><td port="port1" border="1"><b> 1년차 </b></td></tr>
-  <tr><td port="port2" border="1"><i> 기준일: 2024년 3월 1일 ~ 2025년 3월 1일 </i></td></tr>
+  <tr><td port="port2" border="1"><i> 기준일: 2024년 3월 5일 ~ 2025년 3월 5일 </i></td></tr>
   <tr><td port="port3" border="1"> Basic abstract algebra and cryptology </td></tr>
   <tr><td port="port4" border="1"> ZK for blockchain system </td></tr>
 </table>
 <div><br /><br /><br /><br />➜</div>
 <table border="0" cellspacing="0" style="width:31%">
   <tr><td port="port1" border="1"><b> 2년차 </b></td></tr>
-  <tr><td port="port2" border="1"><i> 기준일: 2025년 3월 1일 ~ 2026년 3월 1일 </i></td></tr>
+  <tr><td port="port2" border="1"><i> 기준일: 2025년 3월 5일 ~ 2026년 3월 5일 </i></td></tr>
   <tr><td port="port3" border="1"> DID with ZK, selective disclosure </td></tr>
   <tr><td port="port4" border="1"> DID in LD, graph representation/visualization </td></tr>
 </table>
 <div><br /><br /><br /><br />➜</div>
 <table border="0" cellspacing="0" style="width:31%">
   <tr><td port="port1" border="1"><b> 3년차 </b></td></tr>
-  <tr><td port="port2" border="1"><i> 기준일: 2026년 3월 1일 ~ 2027년 3월 1일 </i></td></tr>
+  <tr><td port="port2" border="1"><i> 기준일: 2026년 3월 5일 ~ 2027년 3월 5일 </i></td></tr>
   <tr><td port="port3" border="1"> Applying previous research to enterprise product </td></tr>
   <tr><td port="port4" border="1"> Low- or No-code interactive platform </td></tr>
 </table>
@@ -150,17 +150,17 @@ Neuro-Symbolic AI(Hybrid), Prolog, Linked Data, Graph Data -->
 어떤 커리큘럼으로 할지, 어느정도 시간 할애를 할지.
 - 정수론, 암호학
   - Abstract algebra and Cryptology
-    1. 경희 수학 채널 [정수론] 강의 63개(5개/1주 ~195H 13W 3달)
-    2. 리얼월드 암호학 책 81개 소챕터(7개/1주 ~195H)
+    1. 경희 수학 채널 [정수론] 강의 63개(5개/1주 ~188.5H 13주 3달)
+    2. 리얼월드 암호학 책 81개 소챕터(7개/1주 ~H)
 - 블록체인 시스템
   - 케이스 스터디 (ZK for blockchain system)
-    1. zkEVM, zkWASM (5개 기술문서 or 아티클 or 논문 학습/1주 ~90H 6주 1.38달)
-    2. Substrate with Arkworks (~90H)
-    3. Aptos/Sui ZKP implementation (~90H)
-    4. o1js (Mina) (~90H)
-  - 정리 및 요구조건 확인 (~30H 2주)
+    1. zkEVM, zkWASM (5개 기술문서 or 아티클 or 논문 학습/1주 ~87H 6주)
+    2. Substrate with Arkworks (~H)
+    3. Aptos/Sui ZKP implementation (~H)
+    4. o1js (Mina) (~H)
+  - 정리 및 요구조건 확인 (~29H 2주)
 
-###### : 총합: 780시간
+###### : 총합: 754시간
 
 <!-- 
   앞으로는 이런 분야를 더 공부해서 전문 영역으로 만들고 회사에 기여하고 싶습니다. 감사합니다. 
