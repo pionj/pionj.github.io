@@ -99,3 +99,12 @@ lookahead distance
 lookahead carry
 lookahead optimizer
 lookahead bias
+
+---
+
+
+() 를 포함한 타입을 정의하는게 더 나을수도. Option으로 전부 Some 연산 하긴 했는데 
+더 나은 점이나 범용성에서는 좋은지 모르겠고 성능도 아직 파악 전이긴 하지만 시도해볼만한듯
+
+Copy clone? Rust
+
