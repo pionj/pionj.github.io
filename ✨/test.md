@@ -58,4 +58,4 @@ Inbox 원칙, 받은 편지함을 비운다 이런것도 좋긴한데
 
 # refs
 
-[@conalnet37:online] : http://conal.net/papers/icfp97/
+[@conalnet37:online]: http://conal.net/papers/icfp97/
