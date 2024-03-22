@@ -62,11 +62,17 @@ style: |
 
 # 연구 및 학습 주제 ✏
 
-- Provenance
-- DID
-- Zero Knowledge scheme
+- DID/VC 
+  - DPKI
 
-<!-- 그 동안의 제 연구 및 학습 주제는 다음과 같습니다. -->
+- Provenance 
+  - can be easily traced with graph in data origin context 
+
+- Zero Knowledge scheme and other cryptography 
+  - Performance, Privacy
+
+<!-- 그 동안의 제 연구 및 학습 주제는 다음과 같습니다.
+(blind signature, elliptic curve dsa) -->
 
 ---
 

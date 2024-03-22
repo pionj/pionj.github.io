@@ -7,8 +7,36 @@ draft: true
 
 # programming-languages
 
-## 5개를 뽑으라면 rust, elixir, elm, haskell, prolog 
+(관심언어는 총 7개 prolog, elixir, rust(+zig - bun, rust의 unsafe/macro 대신), haskell, go, reasonml-mina)
+
+HTMX? 신선하네. 연구용으로 좋은게 어차피 html 확장하려고 했었으니까. 
+https://html-lang.org/ 
+심지어 랭귀지로...
+Elysia, hono, hyper-express 생각보다 신선한 접근이 많네. Bun 런타임이 핫하긴 하구나. 
+Lit 이랑 Bun으로 기존 Angular-Smartflow 최적화 하는거 의미있을듯. 
+
+
+## 5개를 뽑으라면 
+[prolog, elixir, rust]-주력으로 계속 보자, haskell-책 한글 번역까지만 하고 마무리, reason(of ocaml)/rescript(of js)-기초 튜토리얼보고 교수님들 강의만 보고 ml계열은 딱 마무리.
+왜냐면 mina가 있으니까.. ml 계열 공부, 한양대 교수님, 서울대 교수님 두개 녹화강의 들으면 어느정도 감은 올듯.  
+rescript/reasonml/ocaml 쪽이 낫긴한게 elm의 포지션을 하스켈이 갖고 있으니 굳이 두개 이상 할필요는 없고 다른 범위를 보는게 낫다.
+어차피 내 주력은 prolog, elixir 계열일테니. 
+퍼포먼스는 러스트가 채워주고 이론적인 면을 하스켈이 채워주니
+
+바이너리 호환 c++-rust로 대체,js-prolog로 대체,[wasm-wasm은 언어보다는 좀더 컴퓨터 구조나 시스템 메커니즘 공부에 가까운듯]
+산업용 java-reason/ocaml로 대체,ts-ontology로 대체 + js에 type적기, [go-파이썬대체용으로 사용할만할듯, 멀티프로세스 쉽고 성능좋고 쉬운 언어를 목표하고 있으니-이게 이제 기존 파이썬의 유연함, julia 같은 신생 프로젝트의 신선함, 그 mojo 같은 또 언어들의 전략, 신박함들과 기능들이 결합되서 뭐 go로 융합되던지 어쨌거나 하나로 갈듯. 퍼포먼스랑 결국 결합되서 c++ 이상이 될테니. R,matlab,wolfram alpha? cqa coq?였나? 그런 학문적 언어들 같은 언어들의 생태계가 융합되면 더 좋겠네.] 
+curry, mercury, idris, kind 뭐 타입언어 그 너머가 있던데 그런거랑 잘 또 융합되면 더 풍부하고 상위 레이어의 언어도 있기야 하겠지. 그게 온톨로지나 메타타입 언어...라거나 그런 언어가 되겠지. 연구하는 사람들의 언어로. joplin 정리.
+
 어차피 여기서 다 확장가능하다고 생각, 아마도.
+
+영지식 언어나 스마트 컨트랙트야 아직 태동기니 좀더 정리되려면 시간이 필요할거고, 인공지능이야 워낙 이미 성숙했으니 붐이 일어난거지. 붐 자체는 이미 열심히 구축해놓은 기반이 있으니 가능한것. 
+초기 학자들,얼리어답터 등이 먼저 다 할거 해봤으니까. 안정화 된거고. 
+
+Circom+snarkjs, o1js, (Arkworks, Plonky2/Plonky3, Halo2) - rust lib
+
+elm도 일단 기초만 하자. 다른 scala나 clojure/clojurescript처럼 
+함수형 산책에는 없지만 그냥 인프런 강의 보고 기초 튜토리얼 돌리는 정도로만. 이렇게 접근하기도 하는구나 정도로 보는게 좋을듯. 
+왜냐면 이거까지 딥하게 볼 여유는 없고, 그 시간에 tau/prolog, linked data를 html/css/js 생태계랑 연결하는 작업을 하는게 훨씬 나을것 같다. 
 
 (Bold: 기본 언어들)  
 Haskell 책 마저 보면서 ocaml 공식 문서 잘 해놨더라 예전보다.  
@@ -16,6 +44,12 @@ Haskell 책 마저 보면서 ocaml 공식 문서 잘 해놨더라 예전보다.
 그러려고 했는데 좀 문법이 어색해서, ppx 같은 매크로도 그렇고, 일단 reasonml이나 rescript로 시작하는게 어떨까 싶음.
 그리고 다시 ocaml를 보는거지.
 어차피 mina 때문에라도 좀 봐야할거 같고.
+
+---
+RDF 맥락에서 함수를 정의한다면 어떻게 할수 있을까요? 
+
+하지만 HTML 형식처럼 태그가 구분되지는 않네요. attribute나 class 정도만 적을수 있을까요? 좀더 완전하게 작성할수 있을까요?
+
 
 ---
 
@@ -68,10 +102,36 @@ Reasonml/Ocaml/ReScript 를 흥미용으로 공부해도 좋을것 같고.
 
 
 모바일 쪽은 혼자한다고 가정하고 vue + monaca(cordova) 가 제일 적절해보이고, 어차피 거의 기본 웹이랑 비슷하다고 봐서 기초만 익히고 필요할때마다 그때그때 찾아보면 충분할듯. (framework7 쓰면 템플릿도 가능?)
+2024-03-15T17:19:49+09:00
+아닌가 ionic이나 capacitor?
+cordova 지원 중단?
+
+역시 그냥 pwa쓰는게 낫겠다. 굳이 다른 프레임워크 쓰는것보다.
+https://web.dev/learn/pwa/getting-started?hl=ko
+의존적인것보다 표준이 잘 되어있다면 안쓸이유가 없잖아. 
+사용법 다시 익혀야하고 ionic,capacitor는. cordova도 뭔가 신경쓸게 있는거 같으니, xcode 신경안써도 되는 웹이 제일 나은듯. 사파리 지원이나 확인해보면됨. webkit2 인가? 지원되는지.
+
+만약 smartflow 코드 리팩토링 해야한다면, vue냐 lit 이냐.
+vue도 몇가지는 외워야하는게 있어서 귀찮다. 학습 자체가 필요없는게 낫지. lit도 알긴해야하지만 그건 표준이고, 원래 알아야하는 웹컴포넌트니까.
 
 회사에서 쓴다면 그냥 써볼만한 것들은
 Go, Nest, (Next, React Native, Recoil) 정도
 회사가 쓰면 써볼 의향은 있는 딱 그 정도. 
+
+---
+zig는 c대용으로 bun js runtime에 쓰고있음. 
+
+mojo도 꽤나 강력한 경쟁자로 보임.
+julia랑 접점이 있는데 둘다 ai 환경에 최적화된 현대화된 수치컴퓨팅 언어 환경을 만드는 것에 초점을 맞춤.
+그래서 지금 좀 헷갈림.
+결국 파이썬을 대체하기엔 julia가 성공했는지 모르겠고, mojo는 아직 갈길이 멀다. 
+그리고 go로도 어느정도 적정기술이 대체 가능하니 전문영역과 일반영역을 나눠 먹지않을까 싶다.
+그냥 mojo는 kotlin 처럼 기존 레거시 코드, 빅 컴퍼니들이 사용할수 있는 보수적인 솔루션으로 b2b 비즈니스에 적합할것 같긴함. 그 명성이나 평판도 설득하기에 충분한 조건으로 보이고. 
+하지만 그런 회사 비즈니스나 신자유주의 조차도 최고조에 이르러서 이제 쇠퇴하는걸로 보이지만. 파이썬처럼. 
+
+rust로 전체적으로 작성하되, unsafe 부분을 zig로 처리하는 방법? roc lang? 
+일단 c 코드는 zig로 바꿔도 되겠다. 
+
 
 
 ---
@@ -231,10 +291,8 @@ sass가 그냥 css랑 js를 분리한다고 생각하면,
 사실상 ts는 js superset 이니까 ts를 한다는건 js랑 같다고 봐도 되나?
 더 넓은 범위니까..
 
-clojure / scala
-
-go / java
-
+clojure / scala / java
+ruby / python
 
 ---
 
@@ -250,6 +308,7 @@ Go 랑 Clojure도 자주 보이는 언어들인데 언제 어떻게 공부하고
 세븐랭귀지도 한번 더 보자. 객체지향 프로토타입 IO, 루비 같은거 나오기도 하고 prolog나 erlang 예제도 안풀어봤으니 함수형산책으로 elixir 보고 나서 보면 또 새롭게 보이기도 할듯.
 
 go는 c 의 대안으로 사용가능한 쉬운 저수준언어.. 물론 대체불가능하지만.
+c대신은 zig쓰자. go 는 python 대신. java 대신 reasonml.
 
 ---
 
