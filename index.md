@@ -17,4 +17,7 @@ draft: false
 
 [[🔋]] : Reference Literature [](🔋/🔋.md)  
 
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b1d4bb7534954275b615a703094d91a3"}'></script><!-- End Cloudflare Web Analytics -->
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b1d4bb7534954275b615a703094d91a3"}'></script>
+<!-- End Cloudflare Web Analytics -->
