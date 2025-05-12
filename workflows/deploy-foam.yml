@@ -1,0 +1,45 @@
+name: Deploy Foam website
+
+on:
+  push:
+
+  workflow_dispatch:
+
+jobs:
+  deploy-website:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+      
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+        with:
+          # Automatically inject pathPrefix in your Gatsby configuration file.
+          #
+          # You may remove this line if you want to manage the configuration yourself.
+          static_site_generator: gatsby
+      - name: Restore cache
+        uses: actions/cache@v3
+        with:
+          path: |
+            public
+            .cache
+          key: ${{ runner.os }}-gatsby-build-${{ hashFiles('public') }}
+          restore-keys: |
+            ${{ runner.os }}-gatsby-build-
+      - name: Install website dependencies
+        run: npm install --force
+        working-directory: _layouts
+      - name: Build website
+        run: npm run build -- --prefix-paths
+        working-directory: _layouts
+
+      - name: Deploy to the gh-pages branch
+        # only deploy when the main branch has some changes
+        if: github.ref == 'refs/heads/master'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_layouts/public

@@ -1,0 +1,6 @@
+---
+type: daily note
+draft: true
+---
+
+# $FOAM_DATE_YEAR-$FOAM_DATE_MONTH-$FOAM_DATE_DATE ($CURRENT_MONTH_NAME | $CURRENT_DAY_NAME)
