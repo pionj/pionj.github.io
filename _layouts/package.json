@@ -14,7 +14,8 @@
     "react-stacked-pages-hook": "^0.4.8",
     "gatsby-remark-double-brackets-link": "^0.1.11",
     "gatsby-remark-double-parenthesis-link": "0.1.5",
-    "gatsby-transformer-markdown-references": "^0.1.8"
+    "gatsby-transformer-markdown-references": "^0.1.8",
+    "gatsby-plugin-external-css": "^1.0.1"
   },
   "keywords": [
     "foam"
