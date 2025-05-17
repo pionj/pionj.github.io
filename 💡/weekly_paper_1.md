@@ -9,7 +9,7 @@ tags:
 - 
 series:
 - weekly paper
-draft: true
+draft: false
 private: false
 ---
 
