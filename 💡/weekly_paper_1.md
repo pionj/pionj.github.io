@@ -14,7 +14,7 @@ private: false
 ---
 
 
-<link rel="stylesheet" type="text/css" href="📦/style.css">
+<link rel="stylesheet" type="text/css" href="📦/style.css"></link>
 
 ## Weekly Paper 1
 
