@@ -9,8 +9,8 @@ tags:
 - 
 series:
 - weekly paper
-draft: false
-private: true
+draft: true
+private: false
 ---
 
 ## Weekly Paper 1
