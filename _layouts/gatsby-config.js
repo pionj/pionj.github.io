@@ -23,7 +23,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-external-css',
       options: {
-        source: '📦/style.css',
+        source: '../📦/style.css',
       },
     }
   ],
