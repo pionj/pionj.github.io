@@ -4,7 +4,14 @@ blockquote {
     margin-left: 50px !important;
     padding-left: 15px;
     border-left: 3px solid #ccc;
-    color: #333;
+}
+
+blockquote.dark-mode {
+    color: #cfcfcf;
+}
+
+blockquote.light-mode {
+    color: #707070;
 }
 
 blockquote p {
