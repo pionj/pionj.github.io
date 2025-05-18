@@ -19,12 +19,6 @@ module.exports = {
         ],
         // parseWikiLinks: true
       },
-    },
-    {
-      resolve: 'gatsby-plugin-external-css',
-      options: {
-        source: '../📦/style.css',
-      },
     }
   ],
 };
