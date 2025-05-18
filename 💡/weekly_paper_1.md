@@ -13,9 +13,6 @@ draft: false
 private: false
 ---
 
-
-<link rel="stylesheet" type="text/css" href="📦/style.css"></link>
-
 ## Weekly Paper 1
 
 🇶 선형대수학이란 어떤 학문이며, 왜 머신러닝에 필요한지 설명해보세요.
