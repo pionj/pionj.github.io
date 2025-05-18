@@ -7,13 +7,17 @@ blockquote {
 }
 
 blockquote.dark-mode {
-    color: #cfcfcf;
+    color: #cfcfcf !important;
 }
 
 blockquote.light-mode {
-    color: #707070;
+    color: #707070 !important;
 }
 
 blockquote p {
     display: inline;
+}
+
+li p, li a{
+    margin-bottom: 0.3rem;
 }
