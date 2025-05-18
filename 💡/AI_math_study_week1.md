@@ -2,7 +2,7 @@
 title: "AI math study week1"
 description: "AI math study week1 | (2025 May 13 Tuesday)"
 date: 2025-05-16T00:33:27+09:00
-lastmod: 2025-05-16T00:35:03+09:00
+lastmod: 2025-05-19T04:48:15+09:00
 categories: 
 - AI
 tags: 

@@ -2,7 +2,7 @@
 title: "weekly paper 1"
 description: "weekly paper 1 | (2025 May 13 Tuesday)"
 date: 2025-05-16T18:57:28+09:00
-lastmod: 2025-05-18T18:57:30+09:00
+lastmod: 2025-05-19T04:54:52+09:00
 categories: 
 - 
 tags: 
