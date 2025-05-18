@@ -2,7 +2,7 @@
 description: "Polynomials and FFT | (2024 March 12 Tuesday)"
 date: 2024-03-12T23:20:53+09:00
 lastmod: 2025-05-18T16:38:51+09:00
-private: true
+private: false
 draft: false
 ---
 
