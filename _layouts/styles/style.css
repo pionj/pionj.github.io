@@ -6,11 +6,11 @@ blockquote {
     border-left: 3px solid #ccc;
 }
 
-blockquote.dark-mode {
+body.dark-mode blockquote {
     color: #cfcfcf !important;
 }
 
-blockquote.light-mode {
+body.light-mode blockquote {
     color: #707070 !important;
 }
 
@@ -19,5 +19,5 @@ blockquote p {
 }
 
 li p, li a{
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.3rem !important;
 }
