@@ -18,6 +18,9 @@ blockquote p {
     display: inline;
 }
 
-li p, li a{
-    margin-bottom: 0.3rem !important;
+li {
+    margin: 0.4rem auto !important;
+}
+li p {
+    margin: 0.8rem auto !important;
 }
