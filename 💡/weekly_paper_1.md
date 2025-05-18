@@ -1,8 +1,8 @@
 ---
 title: "weekly paper 1"
 description: "weekly paper 1 | (2025 May 13 Tuesday)"
-date: Insert datetime string (Alt+d)
-lastmod: Insert datetime string (Alt+d)
+date: 2025-05-16T18:57:28+09:00
+lastmod: 2025-05-18T18:57:30+09:00
 categories: 
 - 
 tags: 
@@ -13,15 +13,22 @@ draft: false
 private: false
 ---
 
-## Weekly Paper 1
+# Weekly Paper 1
 
-🇶 선형대수학이란 어떤 학문이며, 왜 머신러닝에 필요한지 설명해보세요.
+## TOC
+- [Weekly Paper 1](#weekly-paper-1)
+  - [🇶 선형대수학이란 어떤 학문이며, 왜 머신러닝에 필요한지 설명해보세요. 🔝](#-선형대수학이란-어떤-학문이며-왜-머신러닝에-필요한지-설명해보세요-)
+  - [🇶 EDA(Exploratory Data Analysis)란 무엇인가요? 🔝](#-edaexploratory-data-analysis란-무엇인가요-)
+  - [🇶 대표적인 데이터 전처리 방법인 결측값, 중복값, 이상치 처리에 대해 각각 설명해 주세요. 🔝](#-대표적인-데이터-전처리-방법인-결측값-중복값-이상치-처리에-대해-각각-설명해-주세요-)
+  - [References 🔝](#references-)
+
+## 🇶 선형대수학이란 어떤 학문이며, 왜 머신러닝에 필요한지 설명해보세요. [🔝](#toc)
 - 벡터, 행렬, 텐서 등의 여러 수치적인 값을 가지는 다차원 숫자 뭉치들을 구조적으로 계산하고 다루는 학문.
 - 말 그대로 대수학의 연장선에서 우리가 구조적인 객체를 만들고 데이터 집합을 만들고, 타입을 지정하고, 함수라는 연산을 정의하는것처럼, 새로운 수체계를 고안하고, 이를 개념적으로 해석하고 계산할수 있도록 정리한 학문으로 볼 수 있다.
 - 머신러닝에서 사용되는 데이터의 표현이나 모델 등이 모두 선형대수학에서 정의하는 시스템 안에서 작동하기 때문에 그 기본 바탕이 되는 원리를 이해하려면 반드시 알아야한다.
 - 쉽게 말하자면 일종의 게임 규칙
 
-🇶 EDA(Exploratory Data Analysis)란 무엇인가요?
+## 🇶 EDA(Exploratory Data Analysis)란 무엇인가요? [🔝](#toc)
 - 일단 단순히 Data Analysis가 아닌 Exploratory 라는 수식어가 붙은 이유가 무엇인지 궁금했다.
 참조된 링크의 문서들에서 확인할 수 없었던 것들도 있지만 일단 위키피디아의 내용 여러 부분을 참고하면 다음과 같다:
 
@@ -35,7 +42,7 @@ private: false
 보다 확실한 용어로 정리하자면 "가설 생성"이다.
 데이터가 가진 어떤 메세지를 이해하기 위해 여러가지 통계적 기법이나 시각화 등을 사용한다.
 
-🇶 대표적인 데이터 전처리 방법인 결측값, 중복값, 이상치 처리에 대해 각각 설명해 주세요.
+## 🇶 대표적인 데이터 전처리 방법인 결측값, 중복값, 이상치 처리에 대해 각각 설명해 주세요. [🔝](#toc)
 
 일반적으로 데이터 분석의 순서를 다음과 같이 설명한다:
 1. 데이터 탐색
@@ -63,6 +70,9 @@ private: false
 
 우리의 목표는 데이터가 말하고자하는 바를 명확하게 분석하는데에 있으므로 잘못 입력된 값이거나 비어있거나 중복된 값은 우리가 원하는 결과에 영향을 줄 수 있기 때문에 위처럼 전처리 과정에서 필히 다루어야 한다는 직관을 가질 수 있다.
 
+---
+
+## References [🔝](#toc)
 
 [1] M. Baillie, S. le Cessie, C. O. Schmidt, L. Lusa와/과M. Huebner, “Ten simple rules for initial data analysis”, PLoS Comput Biol, vol 18, 호 2, p e1009819, 2 2022, doi: 10.1371/journal.pcbi.1009819. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8870512/. [접근된: 2025년 5월 16일]
 
