@@ -2,7 +2,7 @@
 title: "weekly paper 1"
 description: "weekly paper 1 | (2025 May 13 Tuesday)"
 date: 2025-05-16T18:57:28+09:00
-lastmod: 2025-05-19T04:54:52+09:00
+lastmod: 2025-05-26T05:37:09+09:00
 categories: 
 - 
 tags: 
@@ -34,7 +34,7 @@ private: false
 
 > IDA is often mistaken for exploratory data analysis (EDA) as they share a large toolbox, including modern data visualization, but the aims are different. While EDA is a hypothesis-generating activity, IDA primarily ensures transparency and integrity of preconditions to conduct appropriate statistical analyses in a responsible manner to answer predefined research questions. For this purpose, IDA provides data ready for analysis including reliable information on the data properties. IDA could be likened to studying for an exam, reviewing materials, making sure the background is understood, and only then the “exam” is taken—the final analysis. The latter corresponds to executing the statistical analysis plan (SAP).<a id="fn1" href="#refs">[1]</a><a id="fn2" href="#refs">[2]</a>
 
-> Exploratory data analysis
+> Exploratory data analysis:  
 > 
 > Once the datasets are cleaned, they can then be analyzed. Analysts may apply a variety of techniques, referred to as exploratory data analysis, to begin understanding the messages contained within the obtained data. The process of data exploration may result in additional data cleaning or additional requests for data; thus, the initialization of the iterative phases mentioned in the lead paragraph of this section. Descriptive statistics, such as, the average or median, can be generated to aid in understanding the data. Data visualization is also a technique used, in which the analyst is able to examine the data in a graphical format in order to obtain additional insights, regarding the messages within the data.<a id="fn3" href="#refs">[3]</a>
 
