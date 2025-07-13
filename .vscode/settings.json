@@ -15,5 +15,17 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "none",
   "github-actions.workflows.pinned.workflows": [],
-  "auto-front-matter.date.format": "YYYY-MM-DDTHH:mm:ssZ",
+  "auto-front-matter.date.format": "YYYY-MM-DDTHH:mm:ssZ", // 'date' 필드의 형식을 지정합니다.
+  "auto-front-matter.fields": [
+    {
+      "name": "date",
+      "type": "date",
+      "updateOnSave": true // 저장 시 'date' 필드를 자동으로 업데이트하도록 지시합니다.
+    },
+    {
+      "name": "lastmod",
+      "type": "date",
+      "updateOnSave": true // 저장 시 'lastmod' 필드를 자동으로 업데이트하도록 지시합니다.
+    }
+  ]
 }
