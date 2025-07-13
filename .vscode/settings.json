@@ -3,13 +3,8 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 0,
-  "workbench.colorTheme": "Gray Matter Dark",
+  "workbench.colorTheme": "Quiet Light",
   "[markdown]": {
-    "editor.quickSuggestions": {
-      "comments": "on",
-      "strings": "on",
-      "other": "on"
-    }
   },
   "files.exclude": {
     "**/node_modules": true
@@ -19,5 +14,7 @@
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "none",
-  "github-actions.workflows.pinned.workflows": []
+  "github-actions.workflows.pinned.workflows": [],
+  // "frontMatter.content.autoUpdateDate": true,
+  // "auto-front-matter.date.format": "YYYY-MM-DDTHH:mm:ssZ",
 }
