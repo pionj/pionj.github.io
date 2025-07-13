@@ -15,6 +15,6 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "none",
   "github-actions.workflows.pinned.workflows": [],
-  // "frontMatter.content.autoUpdateDate": true,
-  // "auto-front-matter.date.format": "YYYY-MM-DDTHH:mm:ssZ",
+  "frontMatter.content.autoUpdateDate": true,
+  "auto-front-matter.date.format": "YYYY-MM-DDTHH:mm:ssZ",
 }
