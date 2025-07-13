@@ -18,7 +18,9 @@
     "gatsby-plugin-external-css": "^1.0.1",
     "gatsby-transformer-remark": "^2.9.4",
     "gatsby-remark-katex": "^7.14.0",
-    "katex": "^0.16.22"
+    "katex": "^0.16.22",
+    "remark-math": "^3.0.1",
+    "rehype-katex": "^5.0.0"
   },
   "keywords": [
     "foam"
