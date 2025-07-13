@@ -19,6 +19,14 @@ module.exports = {
         ],
         // parseWikiLinks: true
       },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-mathjax`,
+        ],
+      },
     }
   ],
 };
