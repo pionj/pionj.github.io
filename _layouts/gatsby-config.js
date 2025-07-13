@@ -23,17 +23,17 @@ module.exports = {
     {
     resolve: `gatsby-transformer-remark`,
       options: {
-        remarkPlugins: [ require('remark-math')],
+        remarkPlugins: [require('remark-math')],
         rehypePlugins: [require('rehype-katex')],
-        // plugins: [
-        //   {
-        //     resolve: `gatsby-remark-katex`,
-        //     options: {
-        //       // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
-        //       strict: `ignore`
-        //     }
-        //   }
-        // ],
+        plugins: [
+          {
+            resolve: `gatsby-remark-katex`,
+            options: {
+              // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+              // strict: `ignore`
+            }
+          }
+        ],
       }
     },
     // {
