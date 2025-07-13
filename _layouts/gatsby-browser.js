@@ -1,2 +1,2 @@
 import './styles/style.css'
-import "./styles/katex.min.css"
+import "./styles/katex/katex.min.css"
