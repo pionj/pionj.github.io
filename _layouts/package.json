@@ -15,7 +15,9 @@
     "gatsby-remark-double-brackets-link": "^0.1.11",
     "gatsby-remark-double-parenthesis-link": "0.1.5",
     "gatsby-transformer-markdown-references": "^0.1.8",
-    "gatsby-plugin-external-css": "^1.0.1"
+    "gatsby-plugin-external-css": "^1.0.1",
+    "gatsby-transformer-remark": "^2.16.1",
+    "gatsby-remark-mathjax": "^2.0.0"
   },
   "keywords": [
     "foam"
