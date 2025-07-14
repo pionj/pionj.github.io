@@ -18,10 +18,15 @@ module.exports = {
           `${__dirname}/../foam-templates/**`
         ],
         // parseWikiLinks: true
-        remarkPlugins: [require('remark-math')],
-        rehypePlugins: [require('rehype-katex')],
       },
     },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        remarkPlugins: [require(`remark-math`)],
+        rehypePlugins: [require(`rehype-katex`)]
+      }
+    }
     // {
     //   resolve: `gatsby-transformer-remark`,
     //   options: {
