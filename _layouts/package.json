@@ -16,9 +16,7 @@
     "gatsby-remark-double-parenthesis-link": "0.1.5",
     "gatsby-transformer-markdown-references": "^0.1.8",
     "gatsby-plugin-external-css": "^1.0.1",
-    "gatsby-transformer-remark": "^2.9.4",
-    "gatsby-remark-katex": "^7.14.0",
-    "katex": "^0.16.22",
+    "katex": "^0.10.0",
     "remark-math": "^3.0.1",
     "rehype-katex": "^5.0.0"
   },
